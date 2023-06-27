@@ -1,0 +1,15 @@
+export const FONTSIZE = {
+  fontSizeExtraXSmall: 8,
+  fontSizeExtraSmall: 10,
+  fontSizelittleSmall: 11,
+  fontSizeSmall: 12,
+  fontSizeSmallRegular: 13,
+  fontSizeRegular: 14,
+  fontSizeMedium: 15,
+  fontSizeLarge: 18,
+  fontSizeExtraLarge: 20,
+  fontSizeExtraXLarge: 22,
+  fontSizeExtraXXLarge: 24,
+  fontSizeExtraXXXLarge: 26,
+  fontSizeExtraXXXXLarge: 32,
+};
